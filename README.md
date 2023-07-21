@@ -1,1 +1,1 @@
-# GoFPatterns_ChainOfResponsibility
+# Chain of responsibility pattern example
